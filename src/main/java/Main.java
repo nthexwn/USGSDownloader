@@ -82,11 +82,13 @@ public class Main
             catch(FileNotFoundException e) { barf(e); }
 
             // Stream map from channel to file
+            System.out.print(String.format("Downloading %s... ", streamPath));
             try
             {
                 mapStream.getChannel().transferFrom(mapChannel, 0, Long.MAX_VALUE);
             }
             catch(IOException e) { barf(e); }
+            System.out.println(String.format("done (%s/%s)", i + 1, mapDataList.size()));
         }
     }
 

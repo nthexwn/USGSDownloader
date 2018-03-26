@@ -821,8 +821,8 @@
 32405 WA North_Nemah 46.625 -123.875 46.5 -123.75 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/28032/8924674.pdf 9333137
 32534 WA Northport 49 -117.875 48.875 -117.75 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25791/8354403.pdf 8777290
 32566 WA Penny_Ridge 45.875 -121.625 45.75 -121.5 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25771/8353098.pdf 8776036
-32703 WA O'Sullivan Dam 47 -119.375 46.875 -119.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25757/8351374.pdf 8759317
-32704 WA O'Took Prairie 47.5 -124.25 47.375 -124.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25833/8382172.pdf 8804658
+32703 WA O'Sullivan_Dam 47 -119.375 46.875 -119.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25757/8351374.pdf 8759317
+32704 WA O'Took_Prairie 47.5 -124.25 47.375 -124.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25833/8382172.pdf 8804658
 32730 WA Oak_Harbor 48.375 -122.75 48.25 -122.625 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383813.pdf 8806168
 32756 WA Oak_Point 46.25 -123.25 46.125 -123.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/28032/8924676.pdf 9333139
 32779 WA Oakesdale 47.25 -117.25 47.125 -117.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25787/8354155.pdf 8777042
@@ -1019,8 +1019,8 @@
 40363 WA Seabeck 47.75 -122.875 47.625 -122.75 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25825/8381645.pdf 8804310
 40400 WA Seattle_North 47.75 -122.375 47.625 -122.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25879/8383913.pdf 8806268
 40401 WA Seattle_South 47.625 -122.375 47.5 -122.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25912/8385990.pdf 8808095
-40450 WA Sedro-Woolley North 48.625 -122.25 48.5 -122.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383821.pdf 8806176
-40451 WA Sedro-Woolley South 48.5 -122.25 48.375 -122.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383823.pdf 8806178
+40450 WA Sedro-Woolley_North 48.625 -122.25 48.5 -122.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383821.pdf 8806176
+40451 WA Sedro-Woolley_South 48.5 -122.25 48.375 -122.125 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383823.pdf 8806178
 40479 WA Sekiu_River 48.375 -124.5 48.25 -124.375 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25788/8354221.pdf 8777108
 40480 WA Selah 46.75 -120.625 46.625 -120.5 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25756/8351257.pdf 8759253
 40481 WA Selah_Springs 46.75 -120.375 46.625 -120.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25768/8353026.pdf 8775964
@@ -1483,7 +1483,7 @@
 76327 WA Lummi_Bay_OE_W 48.875 -122.875 48.75 -122.75 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383793.pdf 8806148
 76343 WA Oroville_OE_N 49.125 -119.5 49 -119.375 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25871/8383618.pdf 8806074
 76370 WA Toroda_OE_N 49.125 -118.875 49 -118.75 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25901/8385761.pdf 8807939
-76399 WA Strait_of_Juan_de_Fuca (All Water) 48.25 -123.375 48.125 -123.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25713/8325194.pdf 8733586
-76408 WA Strait_of_Georgia (All Water) 49 -123 48.875 -122.875 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383833.pdf 8806188
+76399 WA Strait_of_Juan_de_Fuca_(All_Water) 48.25 -123.375 48.125 -123.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25713/8325194.pdf 8733586
+76408 WA Strait_of_Georgia_(All_Water) 49 -123 48.875 -122.875 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25873/8383833.pdf 8806188
 76494 WA Goat_Mountain 46.25 -122.375 46.125 -122.25 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25822/8381442.pdf 8804158
 76560 WA Maple_Valley 47.5 -122.125 47.375 -122 https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/1/25825/8381617.pdf 8804282
