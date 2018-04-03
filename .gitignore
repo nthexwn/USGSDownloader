@@ -3,3 +3,7 @@ target/
 out/
 *.iml
 venv/
+.project
+.pydevproject
+*.swp
+
